@@ -1,5 +1,3 @@
-# flcl42
-
 ## Eth
 
 - [rlp](https://github.com/flcl42/rlp) - error-tolerant RLP parser and colored hex inspector.
