@@ -15,6 +15,6 @@
 
 ## Other Tools
 
-- [notify](https://github.com/flcl42/notify) - end-to-end encrypted Android notifications from a standalone CLI, delivered through FCM.
+- [nfy](https://github.com/flcl42/notify) - encrypted Android notifications from a tiny CLI, delivered through FCM without a persistent connection.
 - [powder](https://github.com/flcl42/powder) - VS Code password encryption helper.
 - [snoopest](https://github.com/flcl42/snoopest) - HTTP/WebSocket proxy logger.
