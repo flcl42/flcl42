@@ -1,5 +1,6 @@
 ## Eth
 
+- [blst-net](https://github.com/flcl42/blst-net) - efficient C# rewrite of [Supranational blst](https://github.com/supranational/blst) for BLS12-381 cryptography on .NET.
 - [rlp](https://github.com/flcl42/rlp) - error-tolerant RLP parser and colored hex inspector.
 
 ## AI
